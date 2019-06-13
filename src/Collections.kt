@@ -30,5 +30,4 @@ fun main() {
     rebelsVehicles.remove("Boba Fett")
     println(rebelsVehicles)
     rebelsVehicles.isEmpty()
-
 }
