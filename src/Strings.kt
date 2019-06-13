@@ -34,6 +34,7 @@ fun main() {
     val lightSaber = "green"
     val vehicle = "landscape"
     val age = 27
+    //Strings teamplates
     println("$luke has a $lightSaber lightsaber and drives a $vehicle and is $age years old")
     println("Lukes full name: '$luke' has ${luke.length} characters.")
 }
